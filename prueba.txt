@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 modifico de nuevo el fichero antes de realizar el merge
 10: modifico otra vez el fichero antes de realizar el merge
 12: modifico otra vez el fichero antes de realizar el merge
@@ -11,3 +12,6 @@ realizo segundo commit en la rama prod branch
 realizo el primer commit sobre el mismo archivo
 realizo el segundo commit sobre el mismno archivo
 >>>>>>> Qa_branch
+=======
+modifico el fichero desde dev_branch
+>>>>>>> Dev_branch

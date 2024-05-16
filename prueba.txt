@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 modifico de nuevo el fichero antes de realizar el merge
 10: modifico otra vez el fichero antes de realizar el merge
 12: modifico otra vez el fichero antes de realizar el merge
+=======
+realizo primer commit en la rama prod branch
+realizo segundo commit en la rama prod branch
+>>>>>>> Prod_branch
